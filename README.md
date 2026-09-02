@@ -1,1 +1,4 @@
-# Computaci-n-Gr-fica-E-IHC
+UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO FACULTAD DE INGENIERÍA DIVISIÓN DE INGENIERÍA ELÉCTRICA INGENIERÍA EN COMPUTACIÓN LABORATORIO DE COMPUTACIÓN GRÁFICA e INTERACCIÓN HUMANO COMPUTADORA
+
+NOMBRE COMPLETO:Velázquez Cortés Cristina Del Carmen Nº de Cuenta: 320005864 GRUPO DE LABORATORIO: 13 GRUPO DE TEORÍA: 07 SEMESTRE 2027-1
+Repositorio digital para el control de versiones de la asignatura Computación Gráfica e Interacción Humano-Computadora
